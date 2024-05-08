@@ -1,0 +1,14 @@
+/Users/roughrough/Documents/Geekbrain/C#/040424/Seminars/sem7/bin/Debug/net7.0/sem7
+/Users/roughrough/Documents/Geekbrain/C#/040424/Seminars/sem7/bin/Debug/net7.0/sem7.deps.json
+/Users/roughrough/Documents/Geekbrain/C#/040424/Seminars/sem7/bin/Debug/net7.0/sem7.runtimeconfig.json
+/Users/roughrough/Documents/Geekbrain/C#/040424/Seminars/sem7/bin/Debug/net7.0/sem7.dll
+/Users/roughrough/Documents/Geekbrain/C#/040424/Seminars/sem7/bin/Debug/net7.0/sem7.pdb
+/Users/roughrough/Documents/Geekbrain/C#/040424/Seminars/sem7/obj/Debug/net7.0/sem7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roughrough/Documents/Geekbrain/C#/040424/Seminars/sem7/obj/Debug/net7.0/sem7.AssemblyInfoInputs.cache
+/Users/roughrough/Documents/Geekbrain/C#/040424/Seminars/sem7/obj/Debug/net7.0/sem7.AssemblyInfo.cs
+/Users/roughrough/Documents/Geekbrain/C#/040424/Seminars/sem7/obj/Debug/net7.0/sem7.csproj.CoreCompileInputs.cache
+/Users/roughrough/Documents/Geekbrain/C#/040424/Seminars/sem7/obj/Debug/net7.0/sem7.dll
+/Users/roughrough/Documents/Geekbrain/C#/040424/Seminars/sem7/obj/Debug/net7.0/refint/sem7.dll
+/Users/roughrough/Documents/Geekbrain/C#/040424/Seminars/sem7/obj/Debug/net7.0/sem7.pdb
+/Users/roughrough/Documents/Geekbrain/C#/040424/Seminars/sem7/obj/Debug/net7.0/sem7.genruntimeconfig.cache
+/Users/roughrough/Documents/Geekbrain/C#/040424/Seminars/sem7/obj/Debug/net7.0/ref/sem7.dll
